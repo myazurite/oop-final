@@ -1,3 +1,4 @@
+
 package medicine.entity;
 public class P extends Medicine {
 

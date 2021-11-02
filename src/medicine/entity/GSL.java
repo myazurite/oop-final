@@ -1,4 +1,5 @@
 package medicine.entity;
+
 public class GSL extends Medicine{
         public void setName(String name){
 		this.name=name;

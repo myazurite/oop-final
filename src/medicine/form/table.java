@@ -1,3 +1,4 @@
+
 package medicine.form;
 
 import java.awt.Color;
@@ -147,7 +148,7 @@ public class table extends javax.swing.JFrame {
 
         pack();
         setLocationRelativeTo(null);
-    }
+    }// </editor-fold>//GEN-END:initComponents
 
     private void jLabel1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel1MouseClicked
         // TODO add your handling code here:

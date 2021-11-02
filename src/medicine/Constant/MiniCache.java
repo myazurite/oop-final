@@ -1,4 +1,5 @@
 package medicine.Constant;
+
 import medicine.entity.*;
 
 public class MiniCache {

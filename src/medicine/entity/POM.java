@@ -1,4 +1,6 @@
+
 package medicine.entity;
+
 public class POM extends Medicine {
 
     public void setName(String name) {
